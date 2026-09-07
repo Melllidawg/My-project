@@ -4,10 +4,10 @@ description
 Sean René Lindahl TIllebæk
 
 
-It-supporter
+It-supporter styr på hardware servere og general viden inden for windows
 
 
-Minef aglige interesser er primært Gaming og alt inde for spilleverdenen og hardware
+Mine faglige interesser er primært Gaming og alt inde for spilleverdenen og hardware
 
 jeg har arbejdet med et stort udvalg af teknologier som fx widnows Linuxs og macOS, og har udover det også arbejdet med packet Tracer leget lidt i CMD og VirtualBox
 
