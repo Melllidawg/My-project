@@ -24,12 +24,12 @@ Synes det kunne være fedt at læse mere om de spil, som [I/O Interactive](https
 Et eksempel på en kommando, jeg har brugt i CMD:
 
 
-Ipconfig
-Dir
-Ping
-Hostname
-Ipconfig /release
-ipconfig /renew
+Ipconfig,
+Dir,
+Ping,
+Hostname,
+Ipconfig /release,
+ipconfig /renew.
 
 
 
