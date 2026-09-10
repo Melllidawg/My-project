@@ -22,3 +22,15 @@ Mine faglige mål er at **fokusere mere på én ting ad gangen**, både i skolen
 Synes det kunne være fedt at læse mere om de spil, som [I/O Interactive](https://ioi.dk/) arbejder med.
 
 Et eksempel på en kommando, jeg har brugt i CMD:
+
+
+Ipconfig
+Dir
+Ping
+Hostname
+Ipconfig /release
+ipconfig /renew
+
+
+
+
