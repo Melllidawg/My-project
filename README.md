@@ -34,5 +34,12 @@ ipconfig /renew.
 - [x] Tattoo
 
 
+```C#
+{
+  int heltal = 42; 
+}
+```
+
+
 
 
