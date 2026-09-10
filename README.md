@@ -31,6 +31,8 @@ Hostname,
 Ipconfig /release,
 ipconfig /renew.
 
+- [x] Tattoo
+
 
 
 
